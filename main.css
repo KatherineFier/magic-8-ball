@@ -3,7 +3,7 @@ body {
   color: #454545;
   margin: 0px;
   padding: 0px;
-  background-color: #f8f8f8;
+  background-color: #ffffff;
   background-image: url('bkgd2.png');
 }
 .page {
@@ -39,6 +39,7 @@ body {
 
 header {
   padding-top: 0.25em;
+  padding-right: 3em;
   text-align: center;
 }
 header span {
